@@ -1,0 +1,7 @@
+Barva,φ[°]
+Vijolična,169°25'
+Modrozelena,171°35'
+Zelena,173°40'
+Rumena,174°20'
+Rumena,174°25'
+Rdeča,175°20'

@@ -1,0 +1,7 @@
+Barva,φ[ °],Tablična  λ [nm]
+Rumena,174°30',587.6
+Rdeča,175°55',667.8
+Zelena,172°10',501.6
+Zelena,171°50',492.2
+Modra,171°0,471.3
+Vijolična,169°55',447.1

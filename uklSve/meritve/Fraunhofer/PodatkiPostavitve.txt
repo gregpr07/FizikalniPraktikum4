@@ -1,0 +1,6 @@
+
+Napetost odbrana na senzorju je normalizirana s priblizno
+maksimalno zaznano napetostjo pri 10 rezah.
+
+Maksimalni premik senzorja po drsni osi:  178mm +- 1mm
+Oddaljenost drsne osi od nosilca za reze: 2000mm +- 5mm
